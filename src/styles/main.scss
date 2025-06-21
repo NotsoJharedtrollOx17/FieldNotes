@@ -1,0 +1,26 @@
+$primary-color: #4e85f2;
+$padding-unit: 1.5rem;
+
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+  background: #f9f9f9;
+  padding: $padding-unit;
+}
+
+.card {
+  background-color: white;
+  border-left: 6px solid $primary-color;
+  padding: $padding-unit;
+  max-width: 600px;
+  margin: 2rem auto;
+  box-shadow: 0 0 10px black;
+
+  h1 {
+    color: $primary-color;
+  }
+
+  p {
+    margin-top: 0.5rem;
+    color: #444;
+  }
+}
