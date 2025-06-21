@@ -1,0 +1,1 @@
+{"version":3,"file":"index-MFU2X72o.js","sources":["../../src/main.ts"],"sourcesContent":["import '@styles/main'\n\nconsole.log(kWebsiteVersion)\n"],"names":[],"mappings":"ssBAEA,QAAQ,IAAI,OAAe"}
